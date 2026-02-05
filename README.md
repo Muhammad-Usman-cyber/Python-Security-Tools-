@@ -22,9 +22,9 @@ Below are the results from testing the auditor in a Linux environment:
 ### Gallery
 | Weak Test | Medium Test | Strong Test |
 | :--- | :--- | :--- |
-| ![Weak](weak password.png) | ![Medium](Medium password.png) | ![Strong](Strong password.png) |
+| ![Weak](weak_password.png) | ![Medium](Medium_password.png) | ![Strong](Strong_password.png) |
 
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/https://github.com/Muhammad-Usman-cyber/Python-Security-Tools.git
+   git clone https://github.com/Muhammad-Usman-cyber/Python-Security-Tools.git
