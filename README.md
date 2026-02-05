@@ -22,7 +22,7 @@ Below are the results from testing the auditor in a Linux environment:
 ### Gallery
 | Weak Test | Medium Test | Strong Test |
 | :--- | :--- | :--- |
-| ![Weak](weak_password.png) | ![Medium](Medium_password.png) | ![Strong](Strong_password.png) |
+| ![Weak](weak.png) | ![Medium](medium.png) | ![Strong](strong.png) |
 
 ## 🛠️ Installation & Usage
 1. Clone the repository:
