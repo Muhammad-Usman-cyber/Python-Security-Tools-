@@ -27,4 +27,4 @@ Below are the results from testing the auditor in a Linux environment:
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[Muhammad-Usman-cyber]/Python-Security-Tools.git
+   git clone https://github.com/https://github.com/Muhammad-Usman-cyber/Python-Security-Tools.git
